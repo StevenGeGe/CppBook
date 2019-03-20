@@ -5,4 +5,5 @@
 
 int main() {
     std::cout << "你好" << std::endl;
+    std::cout << "世界" << std::endl;
 }

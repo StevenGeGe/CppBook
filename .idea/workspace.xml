@@ -12,13 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10a103c3-d96a-4ed4-b891-19bca1fe0483" name="Default Changelist" comment="clion项目构建">
-      <change afterPath="$PROJECT_DIR$/.idea/CppBook.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mainCpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../myC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myC/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../myCpp/.idea/codeStyles/Project.xml" beforeDir="false" />
@@ -110,14 +104,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cpp" value="62" />
+          <entry key="cpp" value="71" />
           <entry key="txt" value="143" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CMakeLists.txt" value="125" />
-          <entry key="ObjectiveC" value="62" />
+          <entry key="ObjectiveC" value="71" />
           <entry key="PLAIN_TEXT" value="18" />
         </counts>
       </usages-collector>
@@ -136,7 +130,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/main.cpp">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -241,7 +239,7 @@
       <option name="presentableId" value="Default" />
       <updated>1553073944759</updated>
       <workItem from="1553073946551" duration="3370000" />
-      <workItem from="1553078221294" duration="293000" />
+      <workItem from="1553078221294" duration="922000" />
     </task>
     <task id="LOCAL-00001" summary="clion项目构建">
       <created>1553075710108</created>
@@ -254,7 +252,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3663000" />
+    <option name="totallyTimeSpent" value="4292000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -267,6 +265,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -315,7 +314,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/main.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
