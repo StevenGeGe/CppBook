@@ -1,0 +1,3 @@
+F:/data/workspace_data/cpp_data/CppBook/cmake-build-debug/CMakeFiles/CppBook.dir
+F:/data/workspace_data/cpp_data/CppBook/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/data/workspace_data/cpp_data/CppBook/cmake-build-debug/CMakeFiles/rebuild_cache.dir
