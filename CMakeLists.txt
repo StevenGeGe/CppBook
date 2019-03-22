@@ -9,4 +9,4 @@ include_directories(cmake-build-debug)
 
 add_executable(CppBook
         .idea/vcs.xml
-        .idea/workspace.xml)
+        .idea/workspace.xml src/cpp/Student.cpp src/include/Student.h)

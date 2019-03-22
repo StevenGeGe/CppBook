@@ -92,6 +92,12 @@
 		<Unit filename="F:/data/workspace_data/cpp_data/CppBook/.idea/workspace.xml">
 			<Option target="CppBook"/>
 		</Unit>
+		<Unit filename="F:/data/workspace_data/cpp_data/CppBook/src/cpp/Student.cpp">
+			<Option target="CppBook"/>
+		</Unit>
+		<Unit filename="F:/data/workspace_data/cpp_data/CppBook/src/include/Student.h">
+			<Option target="CppBook"/>
+		</Unit>
 		<Unit filename="F:/data/workspace_data/cpp_data/CppBook/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

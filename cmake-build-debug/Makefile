@@ -122,6 +122,33 @@ CppBook/fast:
 	$(MAKE) -f CMakeFiles\CppBook.dir\build.make CMakeFiles/CppBook.dir/build
 .PHONY : CppBook/fast
 
+src/cpp/Student.obj: src/cpp/Student.cpp.obj
+
+.PHONY : src/cpp/Student.obj
+
+# target to build an object file
+src/cpp/Student.cpp.obj:
+	$(MAKE) -f CMakeFiles\CppBook.dir\build.make CMakeFiles/CppBook.dir/src/cpp/Student.cpp.obj
+.PHONY : src/cpp/Student.cpp.obj
+
+src/cpp/Student.i: src/cpp/Student.cpp.i
+
+.PHONY : src/cpp/Student.i
+
+# target to preprocess a source file
+src/cpp/Student.cpp.i:
+	$(MAKE) -f CMakeFiles\CppBook.dir\build.make CMakeFiles/CppBook.dir/src/cpp/Student.cpp.i
+.PHONY : src/cpp/Student.cpp.i
+
+src/cpp/Student.s: src/cpp/Student.cpp.s
+
+.PHONY : src/cpp/Student.s
+
+# target to generate assembly for a file
+src/cpp/Student.cpp.s:
+	$(MAKE) -f CMakeFiles\CppBook.dir\build.make CMakeFiles/CppBook.dir/src/cpp/Student.cpp.s
+.PHONY : src/cpp/Student.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -131,6 +158,9 @@ help:
 	@echo ... CppBook
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... src/cpp/Student.obj
+	@echo ... src/cpp/Student.i
+	@echo ... src/cpp/Student.s
 .PHONY : help
 
 
